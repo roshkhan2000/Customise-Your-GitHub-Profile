@@ -1,4 +1,4 @@
-## Headings
+### Headings
 # H1
 ## H2
 ### H3
@@ -6,9 +6,9 @@
 ##### H5
 ###### H6
 
-<br>
+---
 
-## Text Formatting 
+### Text Formatting 
 **Bold text** <br>
 *Italic text* <br>
 ~~Strikethrough~~ <br>
@@ -16,21 +16,17 @@
 
 `Inline code` <br>
 
-<br>
-
 - Item 1
 - Item 2
 
 1. Step One
 2. Step Two
+   
+---
 
-
-
-## Code Blocks 
+### Code Blocks 
 
 Use `SELECT * FROM table`
-
-
 
 ```python
 print("Hello World")
@@ -39,7 +35,9 @@ print("Hello World")
 SELECT name FROM users;
 ```
 
-## Images & GIFs
+---
+
+### Images & GIFs
 
 Basic Image
 ![Alt Text](https://example.com/image.png)
@@ -50,15 +48,9 @@ GIF
 Reizeable HTML 
 <img src="https://example.com/image.png" width="300"/>
 
-## Dividers & Spacing
-
 ---
 
-***
-
-<br>
-
-## Links & Social Media 
+### Links & Social Media 
 Standard Link [My Website](https://example.com)
 
 Badge [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com)
@@ -70,8 +62,9 @@ Badges by Shields.io
 ![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau)
 ![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
 
+---
 
-## GitHub Stats
+### GitHub Stats
 
 Profile Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME)
@@ -85,10 +78,38 @@ Streak
 Profile View Counter 
 ![Views](https://komarev.com/ghpvc/?username=YOURNAME)
 
-## Tables 
+---
+
+### Tables 
 | Skill    | Level |
 |----------|--------|
 | SQL      | 1  |
 | Tableau  | 2  |
 | Python   | 3  |
 
+### Advanced Layout (HTML) 
+
+---
+
+<div align="center">
+  <h1>Hello 👋</h1>
+  <p>Welcome to my profile</p>
+</div>
+
+<div>
+  <img src="img1.png" width="45%">
+  <img src="img2.png" width="45%">
+</div>
+
+---
+
+## Collapsible Sections
+
+<details>
+<summary>📁 My Projects</summary>
+
+- Dashboard A
+- Dashboard B
+- Dashboard C
+
+</details>
