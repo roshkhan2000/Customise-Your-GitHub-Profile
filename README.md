@@ -43,12 +43,12 @@ print("Hello World")
 ### Images & GIFs
 
 Basic Image <br>
-![Image](https://public.tableau.com/static/images/ML/MLBTeamRankingsNLT/Rankings/4_3.png)
+![Image](https://static.wikia.nocookie.net/floppapedia-revamped/images/6/60/NoahBanan.png/revision/latest/thumbnail/width/360/height/360?cb=20230724085059)
 
 GIF <br>
 ![GIF](https://media.tenor.com/lfDATg4Bhc0AAAAM/happy-cat.gif)
 
-Reizeable HTML <br>
+Reizeable Image / GIF <br>
 <img src="https://media.tenor.com/lfDATg4Bhc0AAAAM/happy-cat.gif" width="50"/>
 
 ---
