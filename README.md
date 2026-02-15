@@ -42,23 +42,21 @@ print("Hello World")
 
 ### Images & GIFs
 
-Basic Image <br>
+Basic Image: <br>
 ![Image](https://static.wikia.nocookie.net/floppapedia-revamped/images/6/60/NoahBanan.png/revision/latest/thumbnail/width/360/height/360?cb=20230724085059)
 
-GIF <br>
+GIF: <br>
 ![GIF](https://media.tenor.com/lfDATg4Bhc0AAAAM/happy-cat.gif)
 
-Reizeable Image / GIF <br>
+Reizeable Image / GIF: <br>
 <img src="https://media.tenor.com/lfDATg4Bhc0AAAAM/happy-cat.gif" width="50"/>
 
 ---
 
-### Links & Social Media 
-Standard Link [My Website](https://example.com)
+### Links & Badges 
+Standard Link: [intter md-badges](https://github.com/inttter/md-badges)
 
-Badge [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com)
-
-Badges by Shields.io
+Badges by Shields.io:
 
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=mysql)
@@ -69,50 +67,46 @@ Badges by Shields.io
 
 ### GitHub Stats
 
-Profile Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME)
+Streak: <br>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=roshkhan2000)
 
-Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURNAME)
-
-Streak 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURNAME)
-
-Profile View Counter 
-![Views](https://komarev.com/ghpvc/?username=YOURNAME)
+Profile View Counter: <br>
+![Views](https://komarev.com/ghpvc/?username=roshkhan2000)
 
 ---
 
 ### Tables 
 | Skill    | Level |
-|----------|--------|
-| SQL      | 1  |
-| Tableau  | 2  |
-| Python   | 3  |
+|----------|-------|
+| SQL      | 1     |
+| Tableau  | 2     |
+| Python   | 3     |
+
+---
 
 ### Advanced Layout (HTML) 
 
----
-
+Text central alignment:
 <div align="center">
-  <h1>Hello 👋</h1>
-  <p>Welcome to my profile</p>
+  <p> Hello 👋</p>
 </div>
 
+Image horizontal alignment:
 <div>
-  <img src="img1.png" width="45%">
-  <img src="img2.png" width="45%">
+  <img src="https://pbs.twimg.com/profile_images/1764998213667274752/Ucq6q_y9_400x400.jpg" width="30%">
+  <img src="https://pbs.twimg.com/profile_images/1764998213667274752/Ucq6q_y9_400x400.jpg" width="30%">
 </div>
 
 ---
 
-## Collapsible Sections
+### Collapsible Sections
 
 <details>
 <summary>📁 My Projects</summary>
-
-- Dashboard A
-- Dashboard B
-- Dashboard C
+<br>
+   
+- Project A
+- Project B
+- Project C
 
 </details>
