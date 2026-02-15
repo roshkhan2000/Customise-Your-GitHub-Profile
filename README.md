@@ -92,9 +92,11 @@ Text central alignment:
 </div>
 
 Image horizontal alignment:
-<div>
-  <img src="https://pbs.twimg.com/profile_images/1764998213667274752/Ucq6q_y9_400x400.jpg" width="30%">
-  <img src="https://pbs.twimg.com/profile_images/1764998213667274752/Ucq6q_y9_400x400.jpg" width="30%">
+<div align="center">
+  <img src="https://pbs.twimg.com/profile_images/1764998213667274752/Ucq6q_y9_400x400.jpg" width="25%">
+  <img src="https://pbs.twimg.com/profile_images/1764998213667274752/Ucq6q_y9_400x400.jpg" width="25%">
+   <img src="https://pbs.twimg.com/profile_images/1764998213667274752/Ucq6q_y9_400x400.jpg" width="25%">
+
 </div>
 
 ---
