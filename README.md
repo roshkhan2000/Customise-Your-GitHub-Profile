@@ -1,4 +1,5 @@
 ### Headings
+
 # H1
 ## H2
 ### H3
@@ -9,18 +10,19 @@
 ---
 
 ### Text Formatting 
+
 **Bold text** <br>
 *Italic text* <br>
 ~~Strikethrough~~ <br>
-> Blockquote <br>
-
-`Inline code` <br>
-
-- Item 1
-- Item 2
+- Bullet point 
+- Also a bullet point
 
 1. Step One
 2. Step Two
+   
+> Blockquote
+
+`Inline code`
    
 ---
 
@@ -28,25 +30,26 @@
 
 Use `SELECT * FROM table`
 
-```python
-print("Hello World")
-```
 ```sql
 SELECT name FROM users;
+```
+
+```python
+print("Hello World")
 ```
 
 ---
 
 ### Images & GIFs
 
-Basic Image
-![Alt Text](https://example.com/image.png)
+Basic Image <br>
+![Image](https://public.tableau.com/static/images/ML/MLBTeamRankingsNLT/Rankings/4_3.png)
 
-GIF
-![Demo](https://media.giphy.com/media/xyz/giphy.gif)
+GIF <br>
+![GIF](https://media.tenor.com/lfDATg4Bhc0AAAAM/happy-cat.gif)
 
-Reizeable HTML 
-<img src="https://example.com/image.png" width="300"/>
+Reizeable HTML <br>
+<img src="https://media.tenor.com/lfDATg4Bhc0AAAAM/happy-cat.gif" width="50"/>
 
 ---
 
