@@ -26,19 +26,6 @@
    
 ---
 
-### Code Blocks 
-
-Use `SELECT * FROM table`
-
-```sql
-SELECT name FROM users;
-```
-
-```python
-print("Hello World")
-```
-
----
 
 ### Images & GIFs
 
@@ -81,6 +68,20 @@ Profile View Counter: <br>
 | SQL      | 1     |
 | Tableau  | 2     |
 | Python   | 3     |
+
+---
+
+### Code Blocks 
+
+Use `SELECT * FROM table`
+
+```sql
+SELECT name FROM users;
+```
+
+```python
+print("Hello World")
+```
 
 ---
 
