@@ -36,13 +36,13 @@
 
 | Name                  | Description                                                                 | Tools                                   | Skills                          |
 |-----------------------|-----------------------------------------------------------------------------|-----------------------------------------|---------------------------------|
-| F1 Visualisation      | Built an interactive dashboard analysing Formula 1 race performance. | Tableau, Tableau Prep, Excel          | Data Visualization, Analytics, Dashboard Design |
-| API Pipeline          | Developed an automated pipeline to extract, transform, and load data from REST APIs. | Alteryx, Python, REST APIs   | ETL Development, Automation, Data Integration |
-| Bookstore WebScraping | Created a web scraper to collect book prices, ratings, and availability from online bookstores. | Python, BeautifulSoup | Web Scraping, Data Cleaning, Scripting |
-| SQL Staging           | Designed and maintained staging tables to prepare raw data for reporting and analytics. | SQL Server, Snowflake, dbt | Data Modeling, Data Warehousing |
-
-
+| [F1 Visualisation](www.google.com)      | Built a dashboard analysing Formula 1 race performance. | Tableau, Tableau Prep, Excel | Data Visualization, Analytics, Dashboard Design |
+| [API Pipeline](www.google.com)          | Developed an automated pipeline ETL data from REST APIs. | Alteryx, Python, REST APIs   | ETL Development, Automation, Data Integration |
+| [Bookstore WebScraping](www.google.com) | Created a web scraper to collect data from online bookstores. | Python, BeautifulSoup | Web Scraping, Data Cleaning, Scripting |
+| [SQL Staging](www.google.com)           | Designed and maintained staging tables to prepare raw data for analytics. | SQL Server, Snowflake, dbt | Data Modeling, Data Warehousing |
 
 ---
 
 ### Vizzes
+
+
