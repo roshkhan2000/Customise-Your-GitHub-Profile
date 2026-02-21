@@ -1,10 +1,15 @@
 ### Hi, I'm Rosh👋
-
-- Data Analytics Consultant at [The information Lab](https://www.theinformationlab.co.uk/)
+> Helping people make sense of their data 
+- **Data Analytics Consultant** at [The information Lab](https://www.theinformationlab.co.uk/)
 - Experienced in building interactive dashboards and automated reports
-- Tools: Tableau, Power BI, Alteryx, SQL
-- BSc in Biological Sciences from The University of Warwick
-- Hobbies:
+- Skills: Data Analysis, Data Visualisation, Data Transformation, Tableau, PBI, Alteryx
+- BSc in *Biological Sciences* from The University of Warwick
+
+`X Viz of The Days` <br>
+`Recognised for ....` <br>
+`Awarded... ` <br>
+
+<br>
 
 <div align="left">
   <img src="https://img.shields.io/badge/snowflake-28A0E5?style=for-the-badge&logo=snowflake&logoColor=white">
