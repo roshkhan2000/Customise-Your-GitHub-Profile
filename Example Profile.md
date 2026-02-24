@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Tableau-0052CC?style=for-the-badge&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
-</div>
+<div>
 
 ---
 
@@ -33,7 +33,7 @@
     <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="12.5%">
     <img src="https://templates.images.credential.net/16377649693790199922879811460604.png" width="12.5%">
     <img src="https://github.com/user-attachments/assets/ba531a69-0983-472a-afe5-4ec956cf5de6" width="12.5%">
-</div>
+<div>
 
 ---
 
@@ -50,7 +50,6 @@
 
 ### Vizzes
 
-</div>
 <div align="center">
 <a href="https://public.tableau.com/app/profile/roshaan.khan/viz/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau">
 <img src="https://public.tableau.com/static/images/Ke/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau/4_3.png" width="40%"> 
@@ -65,7 +64,7 @@
 
 <a href="https://public.tableau.com/app/profile/roshaan.khan/viz/WOW2022Week22MLBHallofFamersRanks/Dashboard1">
 <img src="https://public.tableau.com/static/images/WO/WOW2022Week22MLBHallofFamersRanks/Dashboard1/4_3.png" width="40%">
-</div>
+<div>
 
 ---
 
